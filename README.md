@@ -1,4 +1,5 @@
 # ProvaSenai
+Desenvolver um protótipo no Figma para um sistema de pedido de comida e integrá-lo com um repositório no GitHub, incluindo uma documentação detalhada no README.
   # Titulo do projeto
   King Mac
   # objetivo do projeto e suas funcionalidades
